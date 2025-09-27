@@ -10,4 +10,4 @@ while (j < n) {
   j = 2 * j 
 } 
 
-for the grap analysis run the code multiple times unill to get the proper comparison of the graph
+for the grap analysis run the code multiple times unill to get the proper comparison of the graph. It might take few times
